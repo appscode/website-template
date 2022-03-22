@@ -1,0 +1,23 @@
+{
+  "name": "kubedb-web",
+  "version": "0.2.0",
+  "description": "KubeDB Website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appscode/website-template.git"
+  },
+  "author": "AppsCode Inc. <kubedb-dev@appscode.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/appscode/website-template/issues"
+  },
+  "homepage": "https://github.com/appscode/website-template#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "postcss-cli": "^9.1.0"
+  },
+  "private": true
+}
