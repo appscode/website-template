@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/appscode/website-template#readme",
   "devDependencies": {
-    "autoprefixer": "^9.6.1",
+    "autoprefixer": "^10.4.23",
     "postcss-cli": "^9.1.0"
   },
   "private": true
